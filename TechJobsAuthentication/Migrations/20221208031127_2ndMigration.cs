@@ -4,7 +4,7 @@
 
 namespace TechJobsAuthentication.Migrations
 {
-    public partial class DOTNETUpdate : Migration
+    public partial class _2ndMigration : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
